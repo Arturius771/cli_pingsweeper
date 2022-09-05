@@ -1,0 +1,15 @@
+D:\Google Drive\Repos\cli_pingsweeper\bin\Debug\net6.0\cli_pingsweeper.exe
+D:\Google Drive\Repos\cli_pingsweeper\bin\Debug\net6.0\cli_pingsweeper.deps.json
+D:\Google Drive\Repos\cli_pingsweeper\bin\Debug\net6.0\cli_pingsweeper.runtimeconfig.json
+D:\Google Drive\Repos\cli_pingsweeper\bin\Debug\net6.0\cli_pingsweeper.dll
+D:\Google Drive\Repos\cli_pingsweeper\bin\Debug\net6.0\cli_pingsweeper.pdb
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.csproj.AssemblyReference.cache
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.AssemblyInfoInputs.cache
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.AssemblyInfo.cs
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.csproj.CoreCompileInputs.cache
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.dll
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\refint\cli_pingsweeper.dll
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.pdb
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\cli_pingsweeper.genruntimeconfig.cache
+D:\Google Drive\Repos\cli_pingsweeper\obj\Debug\net6.0\ref\cli_pingsweeper.dll
