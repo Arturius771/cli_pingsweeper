@@ -11,8 +11,8 @@ void DisplayData(){
       Console.WriteLine("IPv6: " + ipAddresses[0] + "\nIPv4: " + ipAddresses[1]);
       Console.ReadKey();
     }
-    catch(Exception){
-      Console.WriteLine("error");
+    catch(Exception ex){
+      Console.WriteLine(ex.ToString());
     }
 }
 
